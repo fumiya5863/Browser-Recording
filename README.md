@@ -11,6 +11,11 @@
 ## 利用方法
 
 ## 実行
+```
+git clone https://github.com/fumiya5863/Browser-Recording.git
+cd docs
+```
+docsフォルダに使用するファイルが入っている
 
 ## フォルダ構成
 - Browser-Recording/

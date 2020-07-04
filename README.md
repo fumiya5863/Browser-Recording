@@ -1,6 +1,5 @@
 # Browser-Recording
-
-**Browser-Recordingとは**
+### Browser-Recordingとは
 
 ブラウザの画面を録画することが出来る
 

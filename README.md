@@ -8,7 +8,13 @@
 ## 説明
 
 ## 必須条件
-- HTML
+- HTML 5.2
+- CSS 3
+- JavaScript 1.8
+- MediaDevices.getUserMedia(Web API)
+- MediaRecorder(Web API)
+- MediaDevices.getDisplay(Web API)
+- Blob(Web API)
 
 ## 利用方法
 ブラウザでの録画をすることが出来る

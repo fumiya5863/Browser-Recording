@@ -1,13 +1,19 @@
 # Browser-Recording
 ### Browser-Recordingとは
 
-ブラウザの画面を録画することが出来る
-
-## デモ画面
+ブラウザの画面と音または自分の声を録画することが出来る
 
 ## 説明
 
+## ダウンロード方法
+
+```
+git clone https://github.com/fumiya5863/Browser-Recording.git
+```
+
+
 ## 環境構成
+```
 - HTML 5.2
 - CSS 3
 - JavaScript 1.8
@@ -15,20 +21,17 @@
 - MediaRecorder(Web API)
 - MediaDevices.getDisplay(Web API)
 - Blob(Web API)
+```
 
 ## 利用方法
-ブラウザでの録画をすることが出来る
 
-オンライン化が進み何か教える時にブラウザ上で録画した内容を誰かに配ることが出来る
-
-その他には、中身のファイルを使用して別の機能と結びつけることが出来る
-
-## 実行
 ```
-git clone https://github.com/fumiya5863/Browser-Recording.git
-cd docs
+* ブラウザの画面と音または自分の声を録画することが出来る
+
+* オンライン化が進み何か教える時にブラウザ上で録画した内容を誰かに配ることが出来る
+
+* その他には、中身のファイルを使用して別の機能と結びつけることが出来る
 ```
-docsフォルダに使用するファイルが入っている
 
 ## フォルダ構成
 - Browser-Recording/

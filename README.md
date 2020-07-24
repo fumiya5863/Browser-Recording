@@ -8,10 +8,6 @@
 ## ダウンロード方法
 GitHubからダウンロードするかgit cloneしてください
 
-ダウンロード先
-
-https://github.com/fumiya5863/Browser-Recording.git
-
 git cloneする場合
 ```
 git clone https://github.com/fumiya5863/Browser-Recording.git

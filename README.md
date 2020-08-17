@@ -23,7 +23,7 @@ git clone https://github.com/fumiya5863/Browser-Recording.git
 - MediaRecorder(Web API)
 - MediaDevices.getDisplay(Web API)
 - Blob(Web API)
-- Windows
+- Windows10
 ```
 
 ## 利用方法

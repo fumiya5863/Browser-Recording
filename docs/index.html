@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebCamera</title>
+    <style>
+      video {
+        background:#222;
+        vertical-align: top;
+        --width: 48.5vw;
+        width: var(--width);
+        height: calc(var(--width) * 0.5625);
+      }
+      #video {
+        display: none;
+      }
+    </style>
+</head>
+<body>
+    <h1>ブラウザ録画機能</h1>
+    <p>自分の音声を入れことも可能</p>
+    <video id="video" autoplay></video>
+    <video id="recordVideo" autoplay></video>
+    <div>
+        <button id="record">録画開始</button>
+        <button id="playback" disabled>録画再生</button>
+        <button id="download" disabled>ダウンロード</button>
+    </div>
+    <script src="index.js" type="text/javascript"></script>
+</body>
+</html>
